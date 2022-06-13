@@ -1,0 +1,1 @@
+{"uuid":"dc485810-3490-4a3f-9a6a-1c8651198fc4","name":"org.restTestFramework.tests.TestGetPerson","children":["0300208a-ab4b-49fa-9133-19b8f0b0a6c8"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655126898300,"stop":1655126898887}],"afters":[],"start":1655126898251,"stop":1655126900192}

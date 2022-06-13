@@ -1,0 +1,1 @@
+{"uuid":"175fe695-6389-4ed0-9e88-25b820990778","name":"org.restTestFramework.tests.TestDeletePerson","children":["3ea65c6e-6afe-4d0b-8ced-b74e9ec70105"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655150459686,"stop":1655150460256}],"afters":[],"start":1655150459646,"stop":1655150461423}
